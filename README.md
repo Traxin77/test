@@ -1,2 +1,1 @@
-this is a  new readme update
-this is another update 
+new update in readme file
